@@ -35,16 +35,12 @@ hr{
 	height: 50%;
 }
 
-.app1{
+.app1,.app2,.app3,.app4{
 	width: 85%;
 }
 
-.app2{
-	width: 85%;
-}
-
-.app3{
-	width: 85%;
+.button{
+	box-shadow: height:2px weight:5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
 /*Media queries*/
