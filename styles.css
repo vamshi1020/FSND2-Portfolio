@@ -4,9 +4,10 @@ body{
     color: #2d3c49
 }
 
-hr{
+/*hr{
 	border-top: 3px solid #bbb;
 }
+*/
 
 /*Class Elements*/
 
@@ -36,7 +37,7 @@ hr{
 }
 
 .app1,.app2,.app3,.app4{
-	width: 85%;
+	width: 50%;
 }
 
 .button{
